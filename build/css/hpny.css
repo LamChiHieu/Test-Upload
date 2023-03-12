@@ -1,0 +1,10 @@
+.marquee {
+  height: 30px;
+  width: 100%;
+  overflow: hidden;
+  color: red;
+  background-color: lightyellow;
+  position:fixed; 
+  z-index:10;
+}
+
