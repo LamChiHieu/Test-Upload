@@ -12,7 +12,7 @@ export default class Sidebar extends Component {
               <div className="author-img" style={{ backgroundImage: 'url(images/about.jpg)' }} />
               <h1 id="colorlib-logo"><a href="index.html">Lâm Chí Hiếu</a></h1>
               <div style={{ color: 'white' }}><span className="email"><i className="icon-mail"></i>lamchihieu.vnn@gmail.com</span></div>
-              <div style={{ color: 'white' }}><span className="phone"><i className="icon-phone"></i> 0977992323</span></div>
+              <div style={{ color: 'white' }}><span className="phone"><i className="icon-phone"></i> 09779923 23</span></div>
             </div>
 
 
